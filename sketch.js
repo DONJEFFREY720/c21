@@ -70,7 +70,7 @@ function draw() {
 }
 
 function jump() {
-	Matter.Body.applyForce(ball,{x:0,y:0},{x:5,y:6})
+	Matter.Body.applyForce(ball,{x:0,y:0},{x:8,y:10})
 	
 }
 
